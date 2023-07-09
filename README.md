@@ -1,4 +1,4 @@
-# Kugan PC Specification
+# PC Specification
 - Processor [INTEL I7 12700](https://www.nanotek.lk/product/1934) Rs.108,000
 - Motherboard [ASUS PROART B760-CREATOR D4](https://www.nanotek.lk/product/2221) Rs.109,000
 - RAM(2*16GB) [G.SKILL RIPJAWS 16GB 3200MHZ](https://www.nanotek.lk/product/1993) Rs.28,000
