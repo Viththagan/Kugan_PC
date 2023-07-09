@@ -8,3 +8,5 @@
 - Case [NZXT H5 FLOW BLACK/WHITE](https://www.nanotek.lk/product/1414) Rs.25,500
 - Network Card [TP LINK PCI EXPRESS WIFI CARD TL-WN881ND](https://www.nanotek.lk/product/377) Rs8,000
 - Power supply [NZXT C750 80+ GOLD 750W FULLY MODULAR](https://www.nanotek.lk/product/1898) Rs.40,000
+## Accessories, I/O
+- Monitor [ASUS PROART PA248QV](https://www.nanotek.lk/product/1481) Rs.110,000
